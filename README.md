@@ -1,2 +1,2 @@
 # DES-Implementation-C
-This contains des implimentation in x
+This contains des implimentation in C
